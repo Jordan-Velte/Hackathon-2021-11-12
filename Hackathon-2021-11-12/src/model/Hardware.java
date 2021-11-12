@@ -1,3 +1,4 @@
+package model;
 //Oberklasse
 public class Hardware {
     double _preis;

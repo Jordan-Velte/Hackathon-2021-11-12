@@ -1,3 +1,4 @@
+package model;
 public class Workstation extends Hardware{
     int _benchmark;
     public Workstation(double preis, String name, String beschreibung, int benchmark){

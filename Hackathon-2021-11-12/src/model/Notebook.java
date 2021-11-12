@@ -1,3 +1,4 @@
+package model;
 public class Notebook extends Hardware {
     double _akkulaufzeit;
     

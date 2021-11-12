@@ -1,3 +1,4 @@
+package model;
 public class PC extends Hardware {
     String _anwendungsbereich;
     
