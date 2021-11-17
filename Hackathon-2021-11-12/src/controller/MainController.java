@@ -1,13 +1,18 @@
 package controller;
+
 import java.util.ArrayList;
+//Import von model
 import model.Hardware;
 import model.Notebook;
 import model.PC;
 import model.Workstation;
+//Import von view
 import view.Output;
 
 public class MainController {
+    //Eigentlich fehlen noch Setter + Getter. hier fehlen theoretisch noch die Setter und Getter
     private Output _output;
+    //ArrayList von Oberklasse!
     ArrayList<Hardware> _hardware;
     
     public MainController(){
